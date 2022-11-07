@@ -1,5 +1,5 @@
 download:
-	wget https://archive.ics.uci.edu/ml/machine-learning-databases/00321/LD2011_2014.txt.zip ! unzip LD2011_2014.txt.zip
+	wget https://archive.ics.uci.edu/ml/machine-learning-databases/00321/LD2011_2014.txt.zip -P data && unzip ./data/LD2011_2014.txt.zip
 
 install:
 	pip install -r requirements.txt
