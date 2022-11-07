@@ -1,0 +1,4 @@
+torch==1.13.0
+pytorch_lightning==1.8.0.post1
+pytorch_forecasting==0.10.3
+streamlit==1.14.0
