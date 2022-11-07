@@ -2,5 +2,6 @@
 
 src/data/__pycache__/
 
+data/._LD2011_2014.txt
 data/LD2011_2014.txt
 data/LD2011_2014.txt.zip
